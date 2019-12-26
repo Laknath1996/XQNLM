@@ -1,0 +1,3 @@
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/build/CMakeFiles/rebuild_cache.dir
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/build/CMakeFiles/edit_cache.dir
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/build/CMakeFiles/add_noise.dir

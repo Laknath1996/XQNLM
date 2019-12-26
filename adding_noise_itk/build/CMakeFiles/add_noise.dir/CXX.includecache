@@ -1,0 +1,2214 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/Core/Common/ITKCommonExport.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/Core/Common/ITKIOImageBaseExport.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/Core/Common/ITKStatisticsExport.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/Core/Common/ITKTransformExport.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/Core/Common/itkConfigure.h
+itk_compiler_detection.h
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/Core/Common/itk_compiler_detection.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/IO/ImageBase/itkIOConfigure.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/KWIML/src/itk_kwiml.h
+kwiml/abi.h
+-
+kwiml/int.h
+-
+itkkwiml/abi.h
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/KWIML/src/itkkwiml/abi.h
+itkkwiml/int.h
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/KWIML/src/itkkwiml/int.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/KWSys/src/itksys/Configure.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/KWSys/src/itksys/Configure.hxx
+itksys/Configure.h
+-
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/KWSys/src/itksys/String.hxx
+string
+-
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/KWSys/src/itksys/SystemTools.hxx
+itksys/Configure.hxx
+-
+iosfwd
+-
+map
+-
+string
+-
+vector
+-
+itksys/String.hxx
+-
+sys/types.h
+-
+sys/stat.h
+-
+unistd.h
+-
+stdarg.h
+-
+stdio.h
+-
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/VNL/src/vxl/core/vnl/algo/vnl_algo_export.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_config.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/VNL/src/vxl/core/vxl_config.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_config_compiler.h
+vcl_compiler_detection.h
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_compiler_detection.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_config_headers.h
+
+/Users/ashwin/Semester 7/ITK/ITKbin/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_config_manual.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_AppleClang_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_Clang_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_GNU_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_Intel_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_MSVC_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_SunPro_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_UNKNOWN_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+vxl_version.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vxl_version.h
+vnl/vnl_vector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_vector.h
+itkArray.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.hxx
+itkArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.h
+itkNumericTraitsArrayPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsArrayPixel.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray2D.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+vnl/vnl_matrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_matrix.h
+itkArray2D.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray2D.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray2D.hxx
+itkArray2D.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray2D.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkAtomicInt.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkAtomicIntDetail.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkAtomicIntDetail.h
+itkConceptChecking.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConceptChecking.h
+cstddef
+-
+limits
+-
+atomic
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkAtomicIntDetail.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkSimpleFastMutexLock.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSimpleFastMutexLock.h
+itkConceptChecking.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConceptChecking.h
+atomic
+-
+libkern/OSAtomic.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkBinaryOperationConcept.h
+itkPromoteType.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPromoteType.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCommand.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConceptChecking.h
+itkPixelTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPixelTraits.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+iostream
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkContinuousIndex.h
+itkPoint.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.h
+itkIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndex.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCovariantVector.h
+itkIndent.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndent.h
+itkVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVector.h
+vnl/vnl_vector_ref.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_vector_ref.h
+itkNumericTraitsCovariantVectorPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsCovariantVectorPixel.h
+itkCovariantVector.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCovariantVector.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCovariantVector.hxx
+itkCovariantVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCovariantVector.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCreateObjectFunction.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCrossHelper.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObject.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkSmartPointerForwardReference.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSmartPointerForwardReference.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkRealTimeStamp.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRealTimeStamp.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObjectDecorator.h
+itkDataObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkDataObjectDecorator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObjectDecorator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObjectDecorator.hxx
+itkDataObjectDecorator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObjectDecorator.h
+algorithm
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObjectIterator.h
+itkProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProcessObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultConvertPixelTraits.h
+itkOffset.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOffset.h
+itkVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVector.h
+itkMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMatrix.h
+itkVariableLengthVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableLengthVector.h
+itkVariableSizeMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableSizeMatrix.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultPixelAccessor.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultPixelAccessorFunctor.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultVectorPixelAccessor.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkVariableLengthVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableLengthVector.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultVectorPixelAccessorFunctor.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDiffusionTensor3D.h
+itkSymmetricSecondRankTensor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricSecondRankTensor.h
+itkNumericTraitsDiffusionTensor3DPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsDiffusionTensor3DPixel.h
+itkDiffusionTensor3D.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDiffusionTensor3D.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDiffusionTensor3D.hxx
+itkDiffusionTensor3D.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDiffusionTensor3D.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDomainThreader.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkMultiThreader.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMultiThreader.h
+itkDomainThreader.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDomainThreader.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDomainThreader.hxx
+itkDomainThreader.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDomainThreader.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkEnableIf.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkEventObject.h
+itkIndent.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndent.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkExceptionObject.h
+string
+-
+stdexcept
+-
+itkSmartPointer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSmartPointer.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFastMutexLock.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkSimpleFastMutexLock.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSimpleFastMutexLock.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkFixedArray.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.hxx
+itkNumericTraitsFixedArrayPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsFixedArrayPixel.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.hxx
+itkNumericTraitsFixedArrayPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsFixedArrayPixel.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFloatTypes.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFunctionBase.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImage.h
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+itkImportImageContainer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImportImageContainer.h
+itkDefaultPixelAccessor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultPixelAccessor.h
+itkDefaultPixelAccessorFunctor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultPixelAccessorFunctor.h
+itkPoint.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+itkWeakPointer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWeakPointer.h
+itkNeighborhoodAccessorFunctor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhoodAccessorFunctor.h
+itkImage.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImage.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImage.hxx
+itkImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImage.h
+itkProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProcessObject.h
+algorithm
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageAlgorithm.h
+itkImageRegionIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIterator.h
+type_traits
+-
+tr1/type_traits
+-
+itkIsSame.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsSame.h
+itkImageAlgorithm.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageAlgorithm.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageAlgorithm.hxx
+itkImageAlgorithm.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageAlgorithm.h
+itkArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.h
+itkImageRegionIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIterator.h
+itkImageScanlineIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBase.h
+itkDataObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObject.h
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+itkMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMatrix.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkOffset.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOffset.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+itkImageHelper.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageHelper.h
+itkFloatTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFloatTypes.h
+vxl_version.h
+-
+vnl/vnl_matrix_fixed.txx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_matrix_fixed.txx
+vnl/vnl_matrix_fixed.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_matrix_fixed.hxx
+itkImageTransformHelper.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageTransformHelper.h
+itkImageBase.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBase.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBase.hxx
+itkImageBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBase.h
+itkFastMutexLock.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFastMutexLock.h
+itkProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProcessObject.h
+itkSpatialOrientation.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSpatialOrientation.h
+cstring
+-
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBoundaryCondition.h
+itkIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndex.h
+itkNeighborhood.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhood.h
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIterator.h
+itkImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImage.h
+itkIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndex.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkImageConstIterator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIterator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIterator.hxx
+itkImageConstIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIteratorWithIndex.h
+itkIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndex.h
+itkImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImage.h
+memory
+-
+itkImageConstIteratorWithIndex.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIteratorWithIndex.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIteratorWithIndex.hxx
+itkImageConstIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIteratorWithIndex.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageHelper.h
+itkConceptChecking.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConceptChecking.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIORegion.h
+algorithm
+-
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIterator.h
+itkImageConstIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIterator.h
+itkImageIterator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIterator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIterator.hxx
+itkImageIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIteratorWithIndex.h
+itkImageConstIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIteratorWithIndex.h
+itkImageIteratorWithIndex.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIteratorWithIndex.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIteratorWithIndex.hxx
+itkImageIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIteratorWithIndex.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+itkRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRegion.h
+itkSize.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSize.h
+itkContinuousIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkContinuousIndex.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkImageRegion.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.hxx
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIterator.h
+itkImageIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIterator.h
+itkImageRegionConstIterator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIterator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIterator.hxx
+itkImageRegionConstIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIteratorWithIndex.h
+itkImageConstIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageConstIteratorWithIndex.h
+itkImageRegionConstIteratorWithIndex.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIteratorWithIndex.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIteratorWithIndex.hxx
+itkImageRegionConstIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIteratorWithIndex.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIterator.h
+itkImageRegionConstIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIterator.h
+itkImageRegionIterator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIterator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIterator.hxx
+itkImageRegionIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIteratorWithIndex.h
+itkImageRegionConstIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIteratorWithIndex.h
+itkImageIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIteratorWithIndex.h
+itkImageRegionIteratorWithIndex.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIteratorWithIndex.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIteratorWithIndex.hxx
+itkImageRegionIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionIteratorWithIndex.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionSplitterBase.h
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkImageIORegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIORegion.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineConstIterator.h
+itkImageIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageIterator.h
+itkImageScanlineConstIterator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineConstIterator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineConstIterator.hxx
+itkImageScanlineConstIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineConstIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineIterator.h
+itkImageScanlineConstIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineConstIterator.h
+itkImageScanlineIterator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineIterator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineIterator.hxx
+itkImageScanlineIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageScanlineIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageSource.h
+itkProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProcessObject.h
+itkImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImage.h
+itkImageRegionSplitterBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionSplitterBase.h
+itkImageSourceCommon.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageSourceCommon.h
+itkImageSource.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageSource.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageSource.hxx
+itkImageSource.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageSource.h
+itkOutputDataObjectIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOutputDataObjectIterator.h
+itkImageRegionSplitterBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionSplitterBase.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageSourceCommon.h
+ITKCommonExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/ITKCommonExport.h
+itkImageRegionSplitterBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionSplitterBase.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilter.h
+itkImageSource.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageSource.h
+itkConceptChecking.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConceptChecking.h
+itkImageToImageFilterDetail.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilterDetail.h
+itkImageToImageFilterCommon.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilterCommon.h
+itkImageToImageFilter.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilter.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilter.hxx
+itkImageToImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilter.h
+itkInputDataObjectIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkInputDataObjectIterator.h
+cmath
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilterCommon.h
+ITKCommonExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/ITKCommonExport.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilterDetail.h
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+itkSmartPointer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSmartPointer.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageTransformHelper.h
+itkConceptChecking.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConceptChecking.h
+itkImageBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBase.h
+itkMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMatrix.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImportImageContainer.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+utility
+-
+itkImportImageContainer.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImportImageContainer.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImportImageContainer.hxx
+itkImportImageContainer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImportImageContainer.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkInPlaceImageFilter.h
+itkImageToImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageToImageFilter.h
+itkIsSame.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsSame.h
+itkInPlaceImageFilter.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkInPlaceImageFilter.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkInPlaceImageFilter.hxx
+itkInPlaceImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkInPlaceImageFilter.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndent.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+iostream
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndex.h
+itkOffset.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOffset.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+memory
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkInputDataObjectIterator.h
+itkDataObjectIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObjectIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+stdint.h
+-
+itk_kwiml.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itk_kwiml.h
+cstddef
+-
+climits
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsBaseOf.h
+itkIsConvertible.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsConvertible.h
+itkIsSame.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsSame.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsConvertible.h
+itkMetaProgrammingLibrary.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaProgrammingLibrary.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsNumber.h
+itkMetaProgrammingLibrary.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaProgrammingLibrary.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsSame.h
+itkMetaProgrammingLibrary.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaProgrammingLibrary.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkLightObject.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkSmartPointer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSmartPointer.h
+itkTimeStamp.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkTimeStamp.h
+itkIndent.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndent.h
+itkAtomicInt.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkAtomicInt.h
+iostream
+-
+typeinfo
+-
+itkWindows.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWindows.h
+AvailabilityMacros.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkLightProcessObject.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkWin32Header.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWin32Header.h
+itkConfigure.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConfigure.h
+ITKCommonExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/ITKCommonExport.h
+typeinfo
+-
+string
+-
+cstdlib
+-
+cassert
+-
+sstream
+-
+itkExceptionObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkExceptionObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkMathDetail.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMathDetail.h
+itkConceptChecking.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConceptChecking.h
+vnl/vnl_math.h
+-
+vxl_version.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMathDetail.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+cstdio
+-
+fenv.h
+-
+emmintrin.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMatrix.h
+itkPoint.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.h
+itkCovariantVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCovariantVector.h
+vxl_version.h
+-
+vnl/vnl_matrix_fixed.txx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_matrix_fixed.txx
+vnl/vnl_matrix_fixed.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_matrix_fixed.hxx
+vnl/vnl_transpose.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_transpose.h
+vnl/algo/vnl_matrix_inverse.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/algo/vnl_matrix_inverse.h
+vnl/vnl_matrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_matrix.h
+vnl/algo/vnl_determinant.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/algo/vnl_determinant.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkMatrix.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMatrix.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMatrix.hxx
+itkMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMatrix.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaDataDictionary.h
+itkMetaDataObjectBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaDataObjectBase.h
+vector
+-
+map
+-
+string
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaDataObjectBase.h
+itkLightObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkLightObject.h
+typeinfo
+-
+iostream
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaProgrammingLibrary.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMinimumMaximumImageCalculator.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkMinimumMaximumImageCalculator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMinimumMaximumImageCalculator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMinimumMaximumImageCalculator.hxx
+itkMinimumMaximumImageCalculator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMinimumMaximumImageCalculator.h
+itkImageRegionConstIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegionConstIteratorWithIndex.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMultiThreader.h
+itkMutexLock.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMutexLock.h
+itkThreadSupport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadSupport.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkThreadPool.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadPool.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMutexLock.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkThreadSupport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadSupport.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMutexLockHolder.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhood.h
+iostream
+-
+itkNeighborhoodAllocator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhoodAllocator.h
+itkIndent.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndent.h
+itkSliceIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSliceIterator.h
+vnl/vnl_vector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_vector.h
+itkOffset.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOffset.h
+vector
+-
+itkNeighborhood.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhood.hxx
+itkNeighborhood.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhood.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhood.hxx
+itkNeighborhood.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhood.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhoodAccessorFunctor.h
+itkImageBoundaryCondition.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBoundaryCondition.h
+itkImageBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBase.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNeighborhoodAllocator.h
+iostream
+-
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+vcl_limits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vcl_limits.h
+limits
+-
+complex
+-
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsArrayPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsCovariantVectorPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkCovariantVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCovariantVector.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsDiffusionTensor3DPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkDiffusionTensor3D.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDiffusionTensor3D.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsFixedArrayPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsPointPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkPoint.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsRGBAPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkRGBAPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBAPixel.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsRGBPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkRGBPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBPixel.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsTensorPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkSymmetricSecondRankTensor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricSecondRankTensor.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsVariableLengthVectorPixel.h
+itkVariableLengthVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableLengthVector.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsVectorPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVector.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkLightObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkLightObject.h
+itkEventObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkEventObject.h
+itkMetaDataDictionary.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaDataDictionary.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkObjectFactoryBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactoryBase.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactoryBase.h
+itkCreateObjectFunction.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCreateObjectFunction.h
+list
+-
+vector
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOffset.h
+itkSize.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSize.h
+memory
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOptimizerParameters.h
+itkArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.h
+itkOptimizerParametersHelper.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOptimizerParametersHelper.h
+itkOptimizerParameters.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOptimizerParameters.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOptimizerParameters.hxx
+itkOptimizerParameters.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOptimizerParameters.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOptimizerParametersHelper.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkOutputDataObjectIterator.h
+itkDataObjectIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObjectIterator.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPixelTraits.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVector.h
+vnl/vnl_vector_ref.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_vector_ref.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkPoint.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.hxx
+itkPoint.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.h
+itkNumericTraitsPointPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsPointPixel.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProcessObject.h
+itkDataObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObject.h
+itkDomainThreader.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDomainThreader.h
+itkMultiThreader.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMultiThreader.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+vector
+-
+map
+-
+set
+-
+algorithm
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProgressReporter.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProcessObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPromoteType.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBAPixel.h
+itkIndent.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndent.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkNumericTraitsRGBAPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsRGBAPixel.h
+itkRGBAPixel.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBAPixel.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBAPixel.hxx
+itkRGBAPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBAPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBPixel.h
+itkIndent.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndent.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkNumericTraitsRGBPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsRGBPixel.h
+itkRGBPixel.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBPixel.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBPixel.hxx
+itkRGBPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRGBPixel.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRandomVariateGeneratorBase.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRealTimeInterval.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+iostream
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRealTimeStamp.h
+itkRealTimeInterval.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRealTimeInterval.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+iostream
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkRegion.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSimpleDataObjectDecorator.h
+itkDataObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDataObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkSimpleDataObjectDecorator.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSimpleDataObjectDecorator.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSimpleDataObjectDecorator.hxx
+itkSimpleDataObjectDecorator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSimpleDataObjectDecorator.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSimpleFastMutexLock.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkThreadSupport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadSupport.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSize.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSliceIterator.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+valarray
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSmartPointer.h
+iostream
+-
+itkConfigure.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConfigure.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSmartPointerForwardReference.h
+itkWeakPointer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWeakPointer.h
+iostream
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSpatialOrientation.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSpecialCoordinatesImage.h
+itkImageBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBase.h
+itkImportImageContainer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImportImageContainer.h
+itkDefaultPixelAccessor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultPixelAccessor.h
+itkDefaultPixelAccessorFunctor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultPixelAccessorFunctor.h
+itkContinuousIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkContinuousIndex.h
+itkSpecialCoordinatesImage.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSpecialCoordinatesImage.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSpecialCoordinatesImage.hxx
+itkSpecialCoordinatesImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSpecialCoordinatesImage.h
+itkProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProcessObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkStaticAssert.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricEigenAnalysis.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkSymmetricEigenAnalysis.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricEigenAnalysis.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricEigenAnalysis.hxx
+itkSymmetricEigenAnalysis.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricEigenAnalysis.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricSecondRankTensor.h
+itkIndent.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIndent.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+itkMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMatrix.h
+itkSymmetricEigenAnalysis.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricEigenAnalysis.h
+itkNumericTraitsTensorPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsTensorPixel.h
+itkSymmetricSecondRankTensor.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricSecondRankTensor.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSymmetricSecondRankTensor.hxx
+itkNumericTraitsTensorPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsTensorPixel.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadJob.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkThreadSupport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadSupport.h
+pthread.h
+-
+semaphore.h
+-
+unistd.h
+-
+windows.h
+-
+mach/mach_init.h
+-
+mach/mach_error.h
+-
+mach/semaphore.h
+-
+mach/task.h
+-
+mach/task_info.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadPool.h
+itkConfigure.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkConfigure.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+map
+-
+set
+-
+deque
+-
+itkThreadJob.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadJob.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObjectFactory.h
+itkSimpleFastMutexLock.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkSimpleFastMutexLock.h
+itkMutexLockHolder.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMutexLockHolder.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkThreadSupport.h
+pthread.h
+-
+itkWindows.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWindows.h
+winbase.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkTimeStamp.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIntTypes.h
+itkAtomicInt.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkAtomicInt.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableLengthVector.h
+cassert
+-
+algorithm
+-
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+itkStaticAssert.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkStaticAssert.h
+itkMetaProgrammingLibrary.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMetaProgrammingLibrary.h
+itkEnableIf.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkEnableIf.h
+itkIsBaseOf.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsBaseOf.h
+itkIsNumber.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsNumber.h
+itkPromoteType.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPromoteType.h
+itkBinaryOperationConcept.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkBinaryOperationConcept.h
+itkNumericTraitsVariableLengthVectorPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsVariableLengthVectorPixel.h
+itkVariableLengthVector.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableLengthVector.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableLengthVector.hxx
+itkNumericTraitsVariableLengthVectorPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsVariableLengthVectorPixel.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+cstring
+-
+cstdlib
+-
+itkIsBaseOf.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkIsBaseOf.h
+itkStaticAssert.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkStaticAssert.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableSizeMatrix.h
+itkPoint.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkPoint.h
+itkCovariantVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkCovariantVector.h
+vnl/vnl_matrix_fixed.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_matrix_fixed.h
+vnl/algo/vnl_matrix_inverse.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/algo/vnl_matrix_inverse.h
+vnl/vnl_transpose.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_transpose.h
+vnl/vnl_matrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_matrix.h
+itkArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkArray.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+itkVariableSizeMatrix.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableSizeMatrix.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableSizeMatrix.hxx
+itkVariableSizeMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableSizeMatrix.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVector.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkFixedArray.h
+vnl/vnl_vector_ref.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_vector_ref.h
+itkVector.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVector.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVector.hxx
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMath.h
+vnl/vnl_vector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/vnl/vnl_vector.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkObject.h
+itkNumericTraitsVectorPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkNumericTraitsVectorPixel.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVectorImage.h
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageRegion.h
+itkImportImageContainer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImportImageContainer.h
+itkDefaultVectorPixelAccessor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultVectorPixelAccessor.h
+itkDefaultVectorPixelAccessorFunctor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkDefaultVectorPixelAccessorFunctor.h
+itkVectorImageNeighborhoodAccessorFunctor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVectorImageNeighborhoodAccessorFunctor.h
+itkWeakPointer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWeakPointer.h
+itkVectorImage.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVectorImage.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVectorImage.hxx
+itkVectorImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVectorImage.h
+itkProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkProcessObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVectorImageNeighborhoodAccessorFunctor.h
+itkVariableLengthVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkVariableLengthVector.h
+itkImageBoundaryCondition.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBoundaryCondition.h
+itkImageBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkImageBase.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWeakPointer.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkMacro.h
+iostream
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWin32Header.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itkWindows.h
+windows.h
+-
+winbase.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/itk_compiler_detection.h
+compilers/ITK_COMPILER_INFO_AppleClang_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_AppleClang_CXX.h
+compilers/ITK_COMPILER_INFO_Clang_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_Clang_CXX.h
+compilers/ITK_COMPILER_INFO_GNU_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_GNU_CXX.h
+compilers/ITK_COMPILER_INFO_MSVC_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_MSVC_CXX.h
+compilers/ITK_COMPILER_INFO_SunPro_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_SunPro_CXX.h
+compilers/ITK_COMPILER_INFO_Intel_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_Intel_CXX.h
+compilers/ITK_COMPILER_INFO_UNKNOWN_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Common/include/compilers/ITK_COMPILER_INFO_UNKNOWN_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkExtrapolateImageFunction.h
+itkImageFunction.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkImageFunction.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkImageFunction.h
+itkFunctionBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkFunctionBase.h
+itkIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkIndex.h
+itkImageBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkImageBase.h
+itkImageFunction.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkImageFunction.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkImageFunction.hxx
+itkImageFunction.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkImageFunction.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkInterpolateImageFunction.h
+itkImageFunction.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkImageFunction.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkLinearInterpolateImageFunction.h
+itkInterpolateImageFunction.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkInterpolateImageFunction.h
+itkVariableLengthVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkVariableLengthVector.h
+itkLinearInterpolateImageFunction.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkLinearInterpolateImageFunction.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkLinearInterpolateImageFunction.hxx
+itkConceptChecking.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkConceptChecking.h
+itkLinearInterpolateImageFunction.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkLinearInterpolateImageFunction.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/ImageFunction/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkAffineTransform.h
+itkMatrixOffsetTransformBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMatrixOffsetTransformBase.h
+iostream
+-
+itkAffineTransform.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkAffineTransform.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkAffineTransform.hxx
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkNumericTraits.h
+itkAffineTransform.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkAffineTransform.h
+vnl/algo/vnl_matrix_inverse.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/vnl/algo/vnl_matrix_inverse.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkIdentityTransform.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkObject.h
+itkPoint.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkPoint.h
+itkCovariantVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkCovariantVector.h
+vnl/vnl_vector_fixed.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/vnl/vnl_vector_fixed.h
+itkArray2D.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkArray2D.h
+itkTransform.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkTransform.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMatrixOffsetTransformBase.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMacro.h
+itkMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMatrix.h
+itkTransform.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkTransform.h
+iostream
+-
+itkMatrixOffsetTransformBase.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMatrixOffsetTransformBase.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMatrixOffsetTransformBase.hxx
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkNumericTraits.h
+itkMatrixOffsetTransformBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMatrixOffsetTransformBase.h
+vnl/algo/vnl_matrix_inverse.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/vnl/algo/vnl_matrix_inverse.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMath.h
+itkCrossHelper.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkCrossHelper.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkTransform.h
+itkTransformBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkTransformBase.h
+itkVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkVector.h
+itkSymmetricSecondRankTensor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkSymmetricSecondRankTensor.h
+itkDiffusionTensor3D.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkDiffusionTensor3D.h
+itkVariableLengthVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkVariableLengthVector.h
+vnl/vnl_vector_fixed.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/vnl/vnl_vector_fixed.h
+itkMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkMatrix.h
+itkTransform.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkTransform.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkTransform.hxx
+itkTransform.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkTransform.h
+itkCrossHelper.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkCrossHelper.h
+vnl/algo/vnl_matrix_inverse.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/vnl/algo/vnl_matrix_inverse.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkTransformBase.h
+ITKTransformExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/ITKTransformExport.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkObject.h
+itkPoint.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkPoint.h
+itkCovariantVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkCovariantVector.h
+vnl/vnl_vector_fixed.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/vnl/vnl_vector_fixed.h
+itkArray2D.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkArray2D.h
+itkOptimizerParameters.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkOptimizerParameters.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkObjectFactory.h
+itkIntTypes.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Core/Transform/include/itkIntTypes.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageFilterBase/include/itkBinaryFunctorImageFilter.h
+itkInPlaceImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageFilterBase/include/itkInPlaceImageFilter.h
+itkSimpleDataObjectDecorator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageFilterBase/include/itkSimpleDataObjectDecorator.h
+itkBinaryFunctorImageFilter.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageFilterBase/include/itkBinaryFunctorImageFilter.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageFilterBase/include/itkBinaryFunctorImageFilter.hxx
+itkBinaryFunctorImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageFilterBase/include/itkBinaryFunctorImageFilter.h
+itkImageScanlineIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageFilterBase/include/itkImageScanlineIterator.h
+itkProgressReporter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageFilterBase/include/itkProgressReporter.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkResampleImageFilter.h
+itkFixedArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkFixedArray.h
+itkTransform.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkTransform.h
+itkImageRegionIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkImageRegionIterator.h
+itkImageToImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkImageToImageFilter.h
+itkExtrapolateImageFunction.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkExtrapolateImageFunction.h
+itkLinearInterpolateImageFunction.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkLinearInterpolateImageFunction.h
+itkSize.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkSize.h
+itkDefaultConvertPixelTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkDefaultConvertPixelTraits.h
+itkDataObjectDecorator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkDataObjectDecorator.h
+itkResampleImageFilter.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkResampleImageFilter.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkResampleImageFilter.hxx
+itkResampleImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkResampleImageFilter.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkObjectFactory.h
+itkIdentityTransform.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkIdentityTransform.h
+itkProgressReporter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkProgressReporter.h
+itkImageRegionIteratorWithIndex.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkImageRegionIteratorWithIndex.h
+itkImageScanlineIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkImageScanlineIterator.h
+itkSpecialCoordinatesImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkSpecialCoordinatesImage.h
+itkDefaultConvertPixelTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageGrid/include/itkDefaultConvertPixelTraits.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageIntensity/include/itkMaskImageFilter.h
+itkBinaryFunctorImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageIntensity/include/itkBinaryFunctorImageFilter.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageIntensity/include/itkNumericTraits.h
+itkVariableLengthVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageIntensity/include/itkVariableLengthVector.h
+itkMath.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageIntensity/include/itkMath.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkStatisticsImageFilter.h
+itkImageToImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkImageToImageFilter.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkNumericTraits.h
+itkArray.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkArray.h
+itkSimpleDataObjectDecorator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkSimpleDataObjectDecorator.h
+itkStatisticsImageFilter.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkStatisticsImageFilter.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkStatisticsImageFilter.hxx
+itkStatisticsImageFilter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkStatisticsImageFilter.h
+itkImageScanlineIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkImageScanlineIterator.h
+itkProgressReporter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Filtering/ImageStatistics/include/itkProgressReporter.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkConvertPixelBuffer.h
+ITKIOImageBaseExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/ITKIOImageBaseExport.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkObject.h
+itkNumericTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkNumericTraits.h
+itkEnableIf.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkEnableIf.h
+itkConvertPixelBuffer.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkConvertPixelBuffer.hxx
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkConvertPixelBuffer.hxx
+itkConvertPixelBuffer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkConvertPixelBuffer.h
+itkRGBPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkRGBPixel.h
+itkDefaultConvertPixelTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkDefaultConvertPixelTraits.h
+cstddef
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileReader.h
+itkImageFileReaderException.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileReaderException.h
+ITKIOImageBaseExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/ITKIOImageBaseExport.h
+itkImageIOBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOBase.h
+itkImageSource.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageSource.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkMacro.h
+itkImageRegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageRegion.h
+itkDefaultConvertPixelTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkDefaultConvertPixelTraits.h
+itkSimpleDataObjectDecorator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkSimpleDataObjectDecorator.h
+itkImageFileReader.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileReader.hxx
+itkImageIOFactoryRegisterManager.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOFactoryRegisterManager.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileReader.hxx
+itkImageFileReader.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileReader.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkObjectFactory.h
+itkImageIOFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOFactory.h
+itkConvertPixelBuffer.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkConvertPixelBuffer.h
+itkPixelTraits.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkPixelTraits.h
+itkVectorImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkVectorImage.h
+itksys/SystemTools.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itksys/SystemTools.hxx
+fstream
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileReaderException.h
+ITKIOImageBaseExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/ITKIOImageBaseExport.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkMacro.h
+itkExceptionObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkExceptionObject.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileWriter.h
+ITKIOImageBaseExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/ITKIOImageBaseExport.h
+itkProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkProcessObject.h
+itkImageIOBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOBase.h
+itkMacro.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkMacro.h
+itkImageFileWriter.hxx
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileWriter.hxx
+itkImageIOFactoryRegisterManager.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOFactoryRegisterManager.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileWriter.hxx
+itkImageFileWriter.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageFileWriter.h
+itkDataObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkDataObject.h
+itkObjectFactoryBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkObjectFactoryBase.h
+itkImageIOFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOFactory.h
+itkCommand.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkCommand.h
+vnl/vnl_vector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/vnl/vnl_vector.h
+itkVectorImage.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkVectorImage.h
+itkImageRegionIterator.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageRegionIterator.h
+itkRGBPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkRGBPixel.h
+itkRGBAPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkRGBAPixel.h
+itkSymmetricSecondRankTensor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkSymmetricSecondRankTensor.h
+itkDiffusionTensor3D.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkDiffusionTensor3D.h
+itkMatrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkMatrix.h
+itkImageAlgorithm.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageAlgorithm.h
+complex
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOBase.h
+ITKIOImageBaseExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/ITKIOImageBaseExport.h
+itkIOConfigure.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkIOConfigure.h
+itkLightProcessObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkLightProcessObject.h
+itkIndent.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkIndent.h
+itkImageIORegion.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIORegion.h
+itkRGBPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkRGBPixel.h
+itkRGBAPixel.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkRGBAPixel.h
+itkCovariantVector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkCovariantVector.h
+itkSymmetricSecondRankTensor.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkSymmetricSecondRankTensor.h
+itkDiffusionTensor3D.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkDiffusionTensor3D.h
+itkImageRegionSplitterBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageRegionSplitterBase.h
+vnl/vnl_vector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/vnl/vnl_vector.h
+vcl_compiler.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/vcl_compiler.h
+fstream
+-
+string
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOFactory.h
+ITKIOImageBaseExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/ITKIOImageBaseExport.h
+itkObject.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkObject.h
+itkImageIOBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/IO/ImageBase/include/itkImageIOBase.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Numerics/Statistics/include/itkNormalVariateGenerator.h
+itkObjectFactory.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Numerics/Statistics/include/itkObjectFactory.h
+itkRandomVariateGeneratorBase.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Numerics/Statistics/include/itkRandomVariateGeneratorBase.h
+ITKStatisticsExport.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/Numerics/Statistics/include/ITKStatisticsExport.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/KWIML/src/itkkwiml/abi.h
+include/kwiml/abi.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/KWIML/src/itkkwiml/include/kwiml/abi.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/KWIML/src/itkkwiml/include/kwiml/abi.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/KWIML/src/itkkwiml/include/kwiml/int.h
+abi.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/KWIML/src/itkkwiml/include/kwiml/abi.h
+stdint.h
+-
+inttypes.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/KWIML/src/itkkwiml/int.h
+include/kwiml/int.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/KWIML/src/itkkwiml/include/kwiml/int.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/algo/vnl_determinant.h
+vnl/vnl_matrix.h
+-
+vnl/vnl_matrix_fixed.h
+-
+vnl/algo/vnl_algo_export.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/algo/vnl_matrix_inverse.h
+vnl/algo/vnl_svd.h
+-
+vnl/algo/vnl_algo_export.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/algo/vnl_svd.h
+iosfwd
+-
+vnl/vnl_numeric_traits.h
+-
+vnl/vnl_vector.h
+-
+vnl/vnl_matrix.h
+-
+vnl/vnl_diag_matrix.h
+-
+vnl/algo/vnl_algo_export.h
+-
+vcl_compiler.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/dll.h
+vcl_compiler.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_c_vector.h
+iosfwd
+-
+cstddef
+-
+cmath
+-
+vcl_compiler.h
+-
+vnl/vnl_numeric_traits.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_diag_matrix.h
+iosfwd
+-
+vcl_cassert.h
+-
+vcl_compiler.h
+-
+vnl/vnl_vector.h
+-
+vnl/vnl_matrix.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_error.h
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_fastops.h
+vnl/vnl_vector.h
+-
+vnl/vnl_matrix.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_math.h
+cmath
+-
+algorithm
+-
+vcl_compiler.h
+-
+dll.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/dll.h
+vxl_config.h
+-
+vnl/vnl_config.h
+-
+vcl_config_compiler.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+vcl_cassert.h
+-
+vcl_deprecated.h
+-
+emmintrin.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_matrix.h
+iosfwd
+-
+vcl_compiler.h
+-
+vnl/vnl_tag.h
+-
+vnl/vnl_c_vector.h
+-
+vnl/vnl_config.h
+-
+vnl/vnl_error.h
+-
+vcl_cassert.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_matrix_fixed.h
+cstring
+-
+iosfwd
+-
+vcl_cassert.h
+-
+vcl_compiler.h
+-
+vnl_matrix.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_matrix.h
+vnl_matrix_ref.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_matrix_ref.h
+vnl/vnl_vector.h
+-
+vnl/vnl_vector_fixed.h
+-
+vnl/vnl_c_vector.h
+-
+vnl/vnl_config.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_matrix_fixed.hxx
+cmath
+-
+iostream
+-
+cstdlib
+-
+vnl_matrix_fixed.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_matrix_fixed.h
+vcl_compiler.h
+-
+vcl_cassert.h
+-
+vnl/vnl_error.h
+-
+vnl/vnl_math.h
+-
+vnl/vnl_vector_fixed.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_matrix_ref.h
+vnl/vnl_matrix.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_numeric_traits.h
+complex
+-
+vxl_config.h
+-
+vcl_compiler.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_tag.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_transpose.h
+iostream
+-
+vcl_compiler.h
+-
+vnl/vnl_fastops.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_vector.h
+iosfwd
+-
+vnl/vnl_error.h
+-
+vcl_compiler.h
+-
+vnl/vnl_tag.h
+-
+vnl/vnl_c_vector.h
+-
+vnl/vnl_config.h
+-
+vnl/vnl_error.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+vcl_cassert.h
+-
+vcl_deprecated.h
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_vector_fixed.h
+cstring
+-
+iosfwd
+-
+vcl_cassert.h
+-
+vcl_compiler.h
+-
+vnl_vector.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_vector.h
+vnl_vector_ref.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_vector_ref.h
+vnl/vnl_c_vector.h
+-
+vnl/vnl_matrix.h
+-
+vnl/vnl_config.h
+-
+vnl/vnl_error.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl_vector_ref.h
+vnl/vnl_vector.h
+-
+vnl/vnl_export.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vnl/vnl/vnl_export.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/core/vxl_version.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_AppleClang_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_Clang_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_GNU_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_Intel_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_MSVC_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_SunPro_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_UNKNOWN_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_cassert.h
+cassert
+-
+vcl_compiler.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_compiler.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_compiler.h
+cstddef
+-
+vcl_config_manual.h
+-
+vcl_config_compiler.h
+-
+vcl_config_headers.h
+-
+cstdarg
+-
+stdio.h
+-
+stdarg.h
+-
+tr1/memory
+-
+memory
+-
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_compiler_detection.h
+compilers/VXL_COMPILER_INFO_AppleClang_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_AppleClang_CXX.h
+compilers/VXL_COMPILER_INFO_Clang_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_Clang_CXX.h
+compilers/VXL_COMPILER_INFO_GNU_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_GNU_CXX.h
+compilers/VXL_COMPILER_INFO_MSVC_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_MSVC_CXX.h
+compilers/VXL_COMPILER_INFO_SunPro_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_SunPro_CXX.h
+compilers/VXL_COMPILER_INFO_Intel_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_Intel_CXX.h
+compilers/VXL_COMPILER_INFO_UNKNOWN_CXX.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/compilers/VXL_COMPILER_INFO_UNKNOWN_CXX.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_deprecated.h
+
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_limits.h
+limits
+-
+vcl_compiler.h
+/Users/ashwin/Semester 7/ITK/InsightToolkit/Modules/ThirdParty/VNL/src/vxl/vcl/vcl_compiler.h
+
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/add_noise.cxx
+itkImage.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkImage.h
+itkImageFileReader.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkImageFileReader.h
+itkImageFileWriter.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkImageFileWriter.h
+iostream
+-
+string
+-
+cmath
+-
+itkNormalVariateGenerator.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkNormalVariateGenerator.h
+itkStatisticsImageFilter.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkStatisticsImageFilter.h
+itkMinimumMaximumImageCalculator.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkMinimumMaximumImageCalculator.h
+itkMaskImageFilter.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkMaskImageFilter.h
+itkResampleImageFilter.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkResampleImageFilter.h
+itkAffineTransform.h
+/Users/ashwin/Semester 7/Medical_Image_Processing/paper_implementation/scripts/xq_nlm/itk/itkAffineTransform.h
+
+ITKFactoryRegistration/itkImageIOFactoryRegisterManager.h
+
